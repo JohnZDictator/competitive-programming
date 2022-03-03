@@ -35,5 +35,3 @@ class Solution:
         self.dfsTraversal(root)
         
         return self.maxDepthCounter
-        
-        
