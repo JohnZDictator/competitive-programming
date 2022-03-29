@@ -30,6 +30,6 @@ class Solution:
                 
                 else:
                     output.append( [ x, mid ] )
-                    break;
+                    break
                     
         return output
