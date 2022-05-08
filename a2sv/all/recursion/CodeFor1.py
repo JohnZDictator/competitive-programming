@@ -1,4 +1,4 @@
- def codeFor1(n, l, r):
+def codeFor1(n, l, r):
     if n < 2:
         return n 
         
